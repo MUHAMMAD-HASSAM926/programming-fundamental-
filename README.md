@@ -1,9 +1,7 @@
-# programming-fundamental-
+# programming-fundamental Assignemnets-
 Hello Developers
 <br>
-In this zip folder i have uploaded all data related to programming fundamentals which includes 
-<br>
-lab tasks , assignments , books , quizzs , mid and final exam and even lectures.
+In this folder i have uploaded assignments of programming fundamentals.
 <br>
 u guys can learn from here which will improve your coding skills as well.
 
